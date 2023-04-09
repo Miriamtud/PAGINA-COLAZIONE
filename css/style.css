@@ -1,0 +1,139 @@
+body {font-family: sans-serif;
+    background-color:#E94E77;
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+
+}
+
+img {
+    max-width: 50%;
+    max-width: 80%;
+    
+}
+
+li a
+{ 
+ 
+color: azure;
+}
+
+
+
+footer, section.card{
+    max-width: 600px;
+    margin: auto;
+    color:white
+
+    
+
+}
+
+header p {
+    color: aliceblue ;
+}
+header{background-color:#D68189;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0 10px;}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap:10px ;
+}
+
+
+
+main section.hero {
+    
+    background-color: #D68189;
+    color: #C6E5D9; 
+}
+
+main section.hero h1 {
+    display:inline-flex;
+  
+    margin: 0;
+    padding: 10px;
+    
+    text-align: center;
+    font-size:xx-large;
+    color: aliceblue;
+    text-shadow: #E94E77;
+    
+}
+
+main section.hero h2 {
+    
+  
+    margin: 0;
+    padding: 50px 20px;
+    text-align: center;
+    font-style: italic;
+    color: azure;
+    
+}
+
+main section.hero img {
+    
+    margin: 20px;
+    
+    width: 130px;
+}
+
+ img.wp {
+   max-width: 40%;
+    width: 10px;
+    height: 10px;
+
+}
+img.wpp {
+    max-width:40%;
+max-height: 30%;}
+
+img.lp{
+    padding-left: 20%;
+    max-width: 150%;
+    min-width:auto;
+}
+main section.card h2{
+    text-align: center;
+}
+
+
+h3 {text-align: center;
+text-shadow: 4px 4px 8px  #d094a4; 
+font-size: x-large;
+}
+
+
+main section.card{
+    padding: 20px;
+}
+
+main section.card div{
+    background-color:#FC9D9A;
+}
+
+main section.card img{
+    height: 300px;
+    object-fit: cover;
+    width: 400px;
+}
+
+main section.card h2, main section.card p {
+    margin: 0;
+    padding: 10px;
+}
+
+main section.card{
+    background-color:#FC9D9A;
+}
+
+img.ult{
+    margin-left: 80%;
+    width: 220px;
+}
